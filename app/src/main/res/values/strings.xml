@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea7 - Notas</string>
+    <string name="title">My Notes</string>
+    <string name="btnAdd">Add new note</string>
+    <string name="placeholder">This is a placeholder</string>
+    <string name="et1">Note Title</string>
+    <string name="et2">Note Description</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnSave">Save</string>
+    <string name="placeholder2">This is a description placeholder</string>
+    <string name="goBack">Go back</string>
+</resources>
